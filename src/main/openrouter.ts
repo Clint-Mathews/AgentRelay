@@ -1,0 +1,1 @@
+// request adapter, timeout, bounded response parsing

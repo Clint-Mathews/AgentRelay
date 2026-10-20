@@ -1,0 +1,1 @@
+// authoritative snapshots and event publication

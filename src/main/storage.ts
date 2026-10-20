@@ -1,0 +1,1 @@
+// versioned JSON, atomic writes, export
